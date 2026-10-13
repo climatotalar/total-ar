@@ -1,0 +1,43 @@
+TOTAL AR — SITE COMPLETO PARA GITHUB PAGES
+Versão: 12/10/2026, com as últimas imagens da página Serviços.
+
+COMO PUBLICAR
+1. Baixe e extraia o ZIP no computador.
+2. Entre no GitHub e crie um NOVO repositório público chamado total-ar.
+   Não substitua o repositório do seu site pessoal.
+3. No novo repositório, use Add file > Upload files (ou uploading an existing file).
+4. Abra a pasta extraída Total_Ar_GitHub e envie TODO O CONTEÚDO dela, mantendo as subpastas.
+   Envie index.html, assets, contato, produtos, quem-somos e servicos.
+   Não envie o ZIP e não envie a pasta Total_Ar_GitHub como pasta adicional.
+   O arquivo index.html deve aparecer diretamente na raiz do repositório.
+   Inclua também .nojekyll (pode estar oculto). Se necessário, crie-o pelo Add file > Create new file.
+5. Clique em Commit changes para salvar o envio.
+6. Abra Settings > Pages.
+7. Em Build and deployment, escolha Deploy from a branch.
+8. Selecione main e / (root). Clique em Save.
+9. Aguarde a publicação. Em Settings > Pages, use Visit site para abrir o endereço exibido.
+
+O endereço normalmente terá o formato https://SEU-USUARIO.github.io/total-ar/.
+Não é necessário comprar domínio para publicar.
+
+DEPOIS DE COMPRAR UM DOMÍNIO
+Você poderá manter os arquivos no GitHub Pages e conectar o domínio em Settings > Pages > Custom domain,
+configurando também o DNS no serviço onde comprou o domínio. Os links deste pacote funcionam tanto
+em uma subpasta /total-ar/ quanto na raiz de um domínio próprio.
+Não crie um arquivo CNAME antes de definir e configurar seu domínio.
+
+O QUE ESTÁ INCLUÍDO
+Cinco páginas completas, imagens, logo, estilos e JavaScript.
+Os formulários preparam uma mensagem no WhatsApp; o visitante revisa e envia por lá.
+Não há servidor, banco de dados, dependências ou instalação de programas para publicar.
+
+CÓPIA DE SEGURANÇA E EDIÇÃO
+Guarde este ZIP em seu computador. As páginas podem ser editadas diretamente nos arquivos HTML.
+O estilo fica em assets/site.css e as interações em assets/site.js.
+Não renomeie as pastas nem as imagens sem atualizar seus links.
+Abrir index.html diretamente no computador não reproduz toda a navegação de uma hospedagem;
+faça a conferência completa no endereço publicado pelo GitHub Pages.
+
+Documentação oficial:
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages
